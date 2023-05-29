@@ -2,7 +2,7 @@
 #include <string>
 
 int main() {
-    std::cout<<"kommit raDI KOMMITA"
+    std::cout<<"kommit "
     std::string name;
     std::cout << "Enter your name: ";
     std::cin >> name;
